@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804713818557",
+    "firebase_url": "https://sport-to-go-5f630.firebaseio.com",
+    "project_id": "sport-to-go-5f630",
+    "storage_bucket": "sport-to-go-5f630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804713818557:android:9ca9c2f7b310c1536ecad4",
+        "android_client_info": {
+          "package_name": "com.sportogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804713818557-983tsvg9gd32g9ld9bkv6eb1600eo2te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0zR8M_ZWldsqmGIeLvpaKFF5FF_h_Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804713818557-983tsvg9gd32g9ld9bkv6eb1600eo2te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

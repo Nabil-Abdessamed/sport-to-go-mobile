@@ -1,0 +1,7 @@
+{
+    "name": "@components",
+    "displayName": "Components",
+    "typings": "index.d.ts",
+    "main": "index.js",
+    "license": "MIT"
+}

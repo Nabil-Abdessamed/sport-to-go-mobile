@@ -1,0 +1,22 @@
+{
+  "name": "stg-ui",
+  "version": "1.0.0",
+  "description": "Sport To Go UI",
+  "main": "./index.js",
+  "scripts": {
+    "test": "eslint *.js Shapes",
+    "format": "./local_modules/.bin/prettier --write {,Shapes/,Example/}*.js README.md *.ts"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Akram JABEUR",
+    "email": "jabeur.akram@gmail.com"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "license": "MIT",
+  "typings": "index.d.ts"
+}

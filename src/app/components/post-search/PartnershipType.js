@@ -1,0 +1,7 @@
+export const PartnershipType = {
+  COACH: "COACH",
+  ASSOCIATION: "ASSOCIATION",
+  FITNESS_CLUB: "FITNESS_CLUB",
+  CROSSFIT_CLUB: "CROSSFIT_CLUB",
+  OTHER: "OTHER",
+};
