@@ -4,12 +4,12 @@ module.exports = {
     android: {}
   },
   assets: ["./src/assets/fonts/"],
-  dependencies: {
+/*   dependencies: {
     "tipsi-stripe": {
       platforms: {
         android: null,
         ios: null
       }
     }
-  }
+  } */
 };
